@@ -1,2 +1,2 @@
 # UK-Death-Stats
-![Graph](/deaths.png)
+![Graph](/Deaths.png)
